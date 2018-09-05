@@ -1,7 +1,9 @@
 ## Work
 
+### Hidden Values / Hidden Stories (2018)
 
-### Hackathons
+
+## Hackathons
 
 
-### Full Stack of Pancakes
+## Full Stack of Pancakes
